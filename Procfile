@@ -1,0 +1,1 @@
+web: gunicorn alawebdjango.wsgi --log-file -
