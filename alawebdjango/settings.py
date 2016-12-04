@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
 
     'alawebdjango.core',
+    'alawebdjango.catalog',
 ]
 
 MIDDLEWARE = [
