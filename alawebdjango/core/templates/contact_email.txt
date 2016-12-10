@@ -1,0 +1,16 @@
+Olá, {{ name }}, tudo bem!
+
+Muito obrigado pelo contato com a AlaWeb Cursos!
+
+Estes foram os seus dados de contato:
+
+Nome: {{ name }}
+Email: {{ email }}
+Mensagem: {{ message }}
+
+Em até 48 horas utéis, a nossa equipe entrará
+em contato com você para responder a sua dúvida.
+
+Alysson
+AlaWeb Cursos
+BH - Brasil
